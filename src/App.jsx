@@ -2,8 +2,9 @@
 //import reactLogo from './assets/react.svg'
 //import viteLogo from '/vite.svg'
 import './App.css'
-import Exportic from './GlavniExport'
-import { Zaglavlje, GlavniDio, Podnozje } from './NamedExporti'
+//import Exportic from './components/GlavniExport'
+//import { Zaglavlje, GlavniDio, Podnozje } from './components/NamedExporti'
+import { GlavniExport as Exportic, Zaglavlje, GlavniDio, Podnozje} from './components'
 
 function App() {
 
